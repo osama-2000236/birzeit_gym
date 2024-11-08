@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Birzeit Gym</string>
+    <string-array name="Exercise_array">
+        <item>Stretching </item>
+        <item>Balance exercises </item>
+        <item>Balance exercises </item>
+        <item>Strength Training</item>
+    </string-array>
+</resources>
